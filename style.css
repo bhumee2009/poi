@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+.input{
+    background-color: grey;
+}
+.welcome{
+    background-image:url(school.jpg);
+}
+#school{
+    width: 100%;
+}
+.row{
+    clear: both;
+    display: table;
+}
+.campus life_mainDiv{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #7c7c7c;
+}
+.campus life_mainDiv img{
+    width: 100%;
+    height: 300px;
+}
+.campus life_mainDiv hr{
+    width: 100%;
+}
+.campus life_mainDiv h5, .campus life_mainDiv p{
+    margin: 20px;
+}
+
+
+
